@@ -1,5 +1,5 @@
 import re
-
+import motor.motor_asyncio # pylint: disable=import-error
 class Singleton(type):
     __instances__ = {}
 
