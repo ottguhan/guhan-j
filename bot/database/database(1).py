@@ -1,6 +1,4 @@
 import re
-import motor.motor_asyncio # pylint: disable=import-error
-from bot import DB_URI # pylint: disable=import-error
 
 class Singleton(type):
     __instances__ = {}
