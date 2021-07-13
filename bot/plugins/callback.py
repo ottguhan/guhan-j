@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+    text=f"<i>Found @ottrockersz</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -1601,8 +1601,8 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/CrazyBotszGrp">@CrazyBotszGrp</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/CrazyBotsz/Adv-Filter-Bot-V2">Source</a>"""
+    text+=f"""\n<b><i>channel1:</i></b> <a href="https://t.me/Ottrockers2k">@Ottrockers2k</a>\n"""
+    text+="""\n<b><i>channel2:</i></b> <a href="https://t.me/OttrockersDub">OttrockersDub</a>"""
 
     buttons = [
         [
