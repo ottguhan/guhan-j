@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@Tentkottamovies_1
+@Ottrockers2k
 </i>"""    
     
     HELP_TEXT = """
@@ -30,5 +30,5 @@ Ex 👇
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Channel</b> : <i><a href="https://t.me/Tentkottamovies_1">Click Me</a></i>
+<b>➥ Channel</b> : <i><a href="https://t.me/Ottrockers2k">Click Me</a></i>
 """
