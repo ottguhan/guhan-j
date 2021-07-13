@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join our channel', url="https://t.me/Tentkottamovies"
+                                    'Join our channel😎', url="https://t.me/Ottrockers2k"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join our channel', url="https://t.me/Tentkottamovies"
+                                    'Join our channel😎', url="https://t.me/Ottrockers2k"
                                 )
                         ]
                     ]
@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Channel', url='https://t.me/Tentkottamovies'),
-        InlineKeyboardButton('Group', url ='https://t.me/Tentkottagroup')
+        InlineKeyboardButton('Channel 1', url='https://t.me/Ottrockers2k'),
+        InlineKeyboardButton('Channel 2', url ='https://t.me/OttrockersDub')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
